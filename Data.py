@@ -23,5 +23,6 @@ def SensorsData():
              "lamp_status":False}
     return mydata
 
-x = SensorsData()
-print(x)
+# test functions
+# x = SensorsData()
+# print(x)
