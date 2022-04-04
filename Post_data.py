@@ -6,7 +6,7 @@ from time import sleep
 
 postURL = "http://0ebfd90d5509.ngrok.io/api/v1/sensorlog"
 
-while 1:
+while True:
 #    y = Get.get_Status()
     x = FinallValues.SensorsData()
 #    x["lamp_status"] = y["lamp_status"]
