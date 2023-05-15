@@ -1,5 +1,5 @@
 import RPi.GPIO as GPIO
-import Get
+import Get_status
 
 GPIO.setmode(GPIO.BCM)
 RELAIS_1_GPIO = 22
