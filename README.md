@@ -1,5 +1,5 @@
 # greenHouse
-using raspberry pi and arduino with some sensors to grown a plants
+using raspberry pi and arduino with (DHT11, Photocell, YL69)  sensors to grown a plants
 
 
 FILE FinalValues.py:
